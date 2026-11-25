@@ -1,4 +1,4 @@
-# stoicizm_philosophy
+# stoicizm philosophy starter pack.
 
 ![Miyamoto Musashi](images/musashi.jpeg)
 
