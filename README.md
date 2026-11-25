@@ -1,0 +1,1 @@
+# stoicizm_philosophy
